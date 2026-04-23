@@ -1,5 +1,1589 @@
 [
   {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England."
+      }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital city of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+      },
+      {
+        "title": "Laws of motion",
+        "text": "The three laws of motion are attributed to Isaac Newton."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is a historical city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "The official language of Brazil is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital city of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "easy",
+    "question": "Who developed the theory of relativity and was born in Germany?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity."
+      },
+      {
+        "title": "Theory of relativity",
+        "text": "The theory of relativity usually encompasses two interrelated theories by Albert Einstein."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+      },
+      {
+        "title": "France",
+        "text": "France is a country in Western Europe whose capital is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "easy",
+    "question": "Which playwright wrote 'Romeo and Juliet' and lived in Stratford-upon-Avon?",
+    "gold_answer": "William Shakespeare",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright born in Stratford-upon-Avon."
+      },
+      {
+        "title": "Romeo and Juliet",
+        "text": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "easy",
+    "question": "What continent is home to the Amazon Rainforest and the country of Brazil?",
+    "gold_answer": "South America",
+    "context": [
+      {
+        "title": "Amazon Rainforest",
+        "text": "The Amazon Rainforest is a moist broadleaf tropical rainforest in the Amazon biome of South America."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is the largest country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "Who was the lead singer of the band that recorded the album 'Abbey Road'?",
+    "gold_answer": "John Lennon and Paul McCartney",
+    "context": [
+      {
+        "title": "The Beatles",
+        "text": "The Beatles were an English rock band whose members included John Lennon and Paul McCartney."
+      },
+      {
+        "title": "Abbey Road",
+        "text": "Abbey Road is the eleventh studio album by the English rock band the Beatles."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "easy",
+    "question": "Which desert is located in the northern part of the continent where the Nile River flows?",
+    "gold_answer": "Sahara Desert",
+    "context": [
+      {
+        "title": "Nile River",
+        "text": "The Nile is a major north-flowing river in Africa."
+      },
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara is a desert on the African continent, the largest hot desert in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "easy",
+    "question": "Which artist painted the 'Mona Lisa' and was a leading figure of the Renaissance?",
+    "gold_answer": "Leonardo da Vinci",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "easy",
+    "question": "What is the primary language spoken in the country where the Great Wall is located?",
+    "gold_answer": "Mandarin Chinese",
+    "context": [
+      {
+        "title": "Great Wall of China",
+        "text": "The Great Wall of China is a series of fortifications built across the historical northern borders of ancient Chinese states."
+      },
+      {
+        "title": "China",
+        "text": "China is a country in East Asia where Mandarin Chinese is the official language."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet and is the fourth from the Sun?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Mars",
+        "text": "Mars is the fourth planet from the Sun and is often referred to as the 'Red Planet'."
+      },
+      {
+        "title": "Solar System",
+        "text": "The Solar System consists of the Sun and the objects that orbit it, including eight planets."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "easy",
+    "question": "Who was the first person to walk on the Moon during the Apollo 11 mission?",
+    "gold_answer": "Neil Armstrong",
+    "context": [
+      {
+        "title": "Apollo 11",
+        "text": "Apollo 11 was the spaceflight that first landed humans on the Moon."
+      },
+      {
+        "title": "Neil Armstrong",
+        "text": "Neil Armstrong was an American astronaut and the first person to walk on the Moon."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "easy",
+    "question": "Which ocean is the largest on Earth and borders the western coast of the United States?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
+      },
+      {
+        "title": "United States",
+        "text": "The United States has a western coastline along the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "easy",
+    "question": "What is the name of the chemical element with the symbol 'Au' that is often used in jewelry?",
+    "gold_answer": "Gold",
+    "context": [
+      {
+        "title": "Gold",
+        "text": "Gold is a chemical element with the symbol Au and atomic number 79."
+      },
+      {
+        "title": "Periodic Table",
+        "text": "The periodic table is a tabular display of the chemical elements, including gold."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "easy",
+    "question": "Which scientist discovered penicillin and was awarded the Nobel Prize in Medicine?",
+    "gold_answer": "Alexander Fleming",
+    "context": [
+      {
+        "title": "Penicillin",
+        "text": "Penicillin is a group of antibiotics, the first of which was discovered by Alexander Fleming."
+      },
+      {
+        "title": "Alexander Fleming",
+        "text": "Sir Alexander Fleming was a Scottish physician and microbiologist."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "easy",
+    "question": "What is the capital city of Japan, which hosted the 1964 and 2020 Summer Olympics?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital and most populous city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is an island country in East Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Diary of a Young Girl' while hiding during World War II?",
+    "gold_answer": "Anne Frank",
+    "context": [
+      {
+        "title": "The Diary of a Young Girl",
+        "text": "The Diary of a Young Girl is a book of the writings from the Dutch-language diary kept by Anne Frank."
+      },
+      {
+        "title": "Anne Frank",
+        "text": "Anne Frank was a German-Dutch diarist of Jewish heritage."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "easy",
+    "question": "Which instrument is known for having 88 keys and was played by Ludwig van Beethoven?",
+    "gold_answer": "Piano",
+    "context": [
+      {
+        "title": "Piano",
+        "text": "The piano is an acoustic, keyboard, stringed percussion instrument."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was a German composer and pianist."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "easy",
+    "question": "What is the largest mammal in the world that lives in the ocean?",
+    "gold_answer": "Blue Whale",
+    "context": [
+      {
+        "title": "Blue Whale",
+        "text": "The blue whale is a marine mammal and the largest animal known to have ever existed."
+      },
+      {
+        "title": "Mammal",
+        "text": "Mammals are a group of vertebrate animals that include the blue whale."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "easy",
+    "question": "Which country is famous for the Pyramids of Giza and is located in northeast Africa?",
+    "gold_answer": "Egypt",
+    "context": [
+      {
+        "title": "Pyramids of Giza",
+        "text": "The Pyramids of Giza are ancient pyramid structures located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country linking northeast Africa with the Middle East."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States and is featured on the one-dollar bill?",
+    "gold_answer": "George Washington",
+    "context": [
+      {
+        "title": "George Washington",
+        "text": "George Washington was the first president of the United States."
+      },
+      {
+        "title": "United States dollar",
+        "text": "The one-dollar bill features the portrait of George Washington."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "easy",
+    "question": "Which gas do humans need to breathe in order to survive?",
+    "gold_answer": "Oxygen",
+    "context": [
+      {
+        "title": "Oxygen",
+        "text": "Oxygen is the chemical element with the symbol O and atomic number 8, essential for human respiration."
+      },
+      {
+        "title": "Respiration",
+        "text": "Respiration is the process by which organisms exchange gases, primarily oxygen and carbon dioxide."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "easy",
+    "question": "What is the tallest mountain in the world, located in the Himalayas?",
+    "gold_answer": "Mount Everest",
+    "context": [
+      {
+        "title": "Mount Everest",
+        "text": "Mount Everest is Earth's highest mountain above sea level."
+      },
+      {
+        "title": "Himalayas",
+        "text": "The Himalayas is a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "easy",
+    "question": "Which city is known as the 'Big Apple' and is the most populous city in the USA?",
+    "gold_answer": "New York City",
+    "context": [
+      {
+        "title": "New York City",
+        "text": "New York City is often called the 'Big Apple' and is the most populous city in the United States."
+      },
+      {
+        "title": "United States",
+        "text": "The United States is a country primarily located in North America."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "easy",
+    "question": "Who wrote 'Harry Potter and the Philosopher's Stone' and was born in the UK?",
+    "gold_answer": "J.K. Rowling",
+    "context": [
+      {
+        "title": "J.K. Rowling",
+        "text": "J.K. Rowling is a British author, best known for writing the Harry Potter series."
+      },
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "text": "Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "easy",
+    "question": "Which animal is the fastest land animal and is native to Africa?",
+    "gold_answer": "Cheetah",
+    "context": [
+      {
+        "title": "Cheetah",
+        "text": "The cheetah is a large cat and the fastest land animal, native to Africa and central Iran."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is the world's second-largest and second-most populous continent."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "easy",
+    "question": "What is the name of the ship that sank in 1912 after hitting an iceberg?",
+    "gold_answer": "Titanic",
+    "context": [
+      {
+        "title": "Titanic",
+        "text": "The RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in 1912."
+      },
+      {
+        "title": "Iceberg",
+        "text": "The Titanic sank after colliding with an iceberg during its maiden voyage."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "easy",
+    "question": "Which festival is known as the 'Festival of Lights' and is celebrated in India?",
+    "gold_answer": "Diwali",
+    "context": [
+      {
+        "title": "Diwali",
+        "text": "Diwali is the Hindu festival of lights with its variations also celebrated in other Indian religions."
+      },
+      {
+        "title": "India",
+        "text": "India is a country in South Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "easy",
+    "question": "Who was the legendary king of Camelot who carried the sword Excalibur?",
+    "gold_answer": "King Arthur",
+    "context": [
+      {
+        "title": "King Arthur",
+        "text": "King Arthur is a legendary British leader who, according to medieval histories and romances, led the defense of Britain against Saxon invaders."
+      },
+      {
+        "title": "Excalibur",
+        "text": "Excalibur is the legendary sword of King Arthur."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "easy",
+    "question": "Which language is primarily spoken in Mexico and other parts of Latin America?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Mexico",
+        "text": "Mexico is a country in the southern portion of North America where Spanish is the national language."
+      },
+      {
+        "title": "Spanish language",
+        "text": "Spanish is a Romance language that originated in the Iberian Peninsula."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "easy",
+    "question": "What is the name of the process by which plants use sunlight to make food?",
+    "gold_answer": "Photosynthesis",
+    "context": [
+      {
+        "title": "Photosynthesis",
+        "text": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy."
+      },
+      {
+        "title": "Plant",
+        "text": "Plants are multicellular organisms in the kingdom Plantae."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "easy",
+    "question": "Who founded the company Microsoft and is a well-known philanthropist?",
+    "gold_answer": "Bill Gates",
+    "context": [
+      {
+        "title": "Bill Gates",
+        "text": "Bill Gates is an American business magnate and philanthropist who co-founded Microsoft."
+      },
+      {
+        "title": "Microsoft",
+        "text": "Microsoft Corporation is an American multinational technology company."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "Which English computer scientist, who broke the Enigma code, was born in the same city where the Tube was first opened?",
+    "gold_answer": "Alan Turing",
+    "context": [
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was born in London and was a pioneering computer scientist."
+      },
+      {
+        "title": "London Underground",
+        "text": "The London Underground, also known as the Tube, first opened in London in 1863."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "medium",
+    "question": "What is the name of the islands where Charles Darwin studied finches, and which country do they belong to?",
+    "gold_answer": "Galapagos Islands, Ecuador",
+    "context": [
+      {
+        "title": "Galapagos Islands",
+        "text": "The Galapagos Islands are an archipelago of volcanic islands where Charles Darwin conducted research."
+      },
+      {
+        "title": "Ecuador",
+        "text": "The Galapagos Islands are a province of Ecuador."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "medium",
+    "question": "Which document, signed in 1215, limited the power of King John of England?",
+    "gold_answer": "Magna Carta",
+    "context": [
+      {
+        "title": "Magna Carta",
+        "text": "Magna Carta was a royal charter of rights agreed to by King John of England at Runnymede."
+      },
+      {
+        "title": "King John",
+        "text": "King John was the King of England from 1199 until his death in 1216."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "medium",
+    "question": "Who was the Prime Minister of the UK during the majority of World War II and delivered the 'We shall fight on the beaches' speech?",
+    "gold_answer": "Winston Churchill",
+    "context": [
+      {
+        "title": "Winston Churchill",
+        "text": "Winston Churchill was Prime Minister of the United Kingdom from 1940 to 1945."
+      },
+      {
+        "title": "We shall fight on the beaches",
+        "text": " 'We shall fight on the beaches' is a common title given to a speech delivered by Winston Churchill to the House of Commons."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "Which physicist, who wrote a letter to FDR about atomic bombs, was born in the same country as the composer of the 9th Symphony?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was born in Germany and wrote a letter to President Franklin D. Roosevelt in 1939."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was a German composer who wrote the Ninth Symphony."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "medium",
+    "question": "Which sea, located between Europe and Africa, was called 'Mare Nostrum' by the Romans?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Mediterranean Sea",
+        "text": "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin."
+      },
+      {
+        "title": "Mare Nostrum",
+        "text": "Mare Nostrum was a Roman name for the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "Who was the author of '1984' and 'Animal Farm', and what was his real name?",
+    "gold_answer": "George Orwell (Eric Arthur Blair)",
+    "context": [
+      {
+        "title": "George Orwell",
+        "text": "George Orwell was the pen name of Eric Arthur Blair, the author of 1984."
+      },
+      {
+        "title": "Animal Farm",
+        "text": "Animal Farm is a satirical allegorical novella by George Orwell."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "medium",
+    "question": "Which element, with atomic number 6, is the basis of all known life on Earth?",
+    "gold_answer": "Carbon",
+    "context": [
+      {
+        "title": "Carbon",
+        "text": "Carbon is a chemical element with the symbol C and atomic number 6."
+      },
+      {
+        "title": "Organic chemistry",
+        "text": "Organic chemistry is the study of the structure, properties, and reactions of carbon-containing compounds."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "medium",
+    "question": "Who was the first woman to win a Nobel Prize and discovery polonium?",
+    "gold_answer": "Marie Curie",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity."
+      },
+      {
+        "title": "Polonium",
+        "text": "Polonium is a chemical element discovered in 1898 by Marie and Pierre Curie."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "medium",
+    "question": "Which empire, ruled by Genghis Khan, became the largest contiguous land empire in history?",
+    "gold_answer": "Mongol Empire",
+    "context": [
+      {
+        "title": "Mongol Empire",
+        "text": "The Mongol Empire existed during the 13th and 14th centuries and was the largest contiguous land empire in history."
+      },
+      {
+        "title": "Genghis Khan",
+        "text": "Genghis Khan was the founder and first Great Khan of the Mongol Empire."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "What is the name of the active volcano in Italy that destroyed Pompeii in 79 AD?",
+    "gold_answer": "Mount Vesuvius",
+    "context": [
+      {
+        "title": "Mount Vesuvius",
+        "text": "Mount Vesuvius is a somma-stratovolcano located on the Gulf of Naples in Campania, Italy."
+      },
+      {
+        "title": "Pompeii",
+        "text": "Pompeii was an ancient Roman city near modern Naples that was buried by the eruption of Mount Vesuvius."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "medium",
+    "question": "Which American civil rights leader delivered the 'I Have a Dream' speech and was assassinated in Memphis?",
+    "gold_answer": "Martin Luther King Jr.",
+    "context": [
+      {
+        "title": "Martin Luther King Jr.",
+        "text": "Martin Luther King Jr. was an American Baptist minister and activist who became the most visible spokesperson and leader in the civil rights movement."
+      },
+      {
+        "title": "I Have a Dream",
+        "text": "'I Have a Dream' is a public speech that was delivered by American civil rights activist Martin Luther King Jr."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "Which planet in our solar system has the most prominent ring system and is the second largest?",
+    "gold_answer": "Saturn",
+    "context": [
+      {
+        "title": "Saturn",
+        "text": "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter."
+      },
+      {
+        "title": "Rings of Saturn",
+        "text": "The rings of Saturn are the most extensive planetary ring system of any planet in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "medium",
+    "question": "Who was the South African anti-apartheid revolutionary who served as the first black president of South Africa?",
+    "gold_answer": "Nelson Mandela",
+    "context": [
+      {
+        "title": "Nelson Mandela",
+        "text": "Nelson Mandela was a South African anti-apartheid revolutionary and political leader who served as President of South Africa from 1994 to 1999."
+      },
+      {
+        "title": "Apartheid",
+        "text": "Apartheid was a system of institutionalised racial segregation that existed in South Africa and South West Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "medium",
+    "question": "Which Dutch post-impressionist painter created 'The Starry Night' while staying at an asylum in Saint-Rémy?",
+    "gold_answer": "Vincent van Gogh",
+    "context": [
+      {
+        "title": "The Starry Night",
+        "text": "The Starry Night is an oil on canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh."
+      },
+      {
+        "title": "Vincent van Gogh",
+        "text": "Vincent van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "medium",
+    "question": "Which country, whose capital is Canberra, is both a continent and a country?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Australia",
+        "text": "Australia is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands."
+      },
+      {
+        "title": "Canberra",
+        "text": "Canberra is the capital city of Australia."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "medium",
+    "question": "Who is the protagonist of the 'Sherlock Holmes' series created by Sir Arthur Conan Doyle?",
+    "gold_answer": "Sherlock Holmes",
+    "context": [
+      {
+        "title": "Sherlock Holmes",
+        "text": "Sherlock Holmes is a fictional private detective created by British author Sir Arthur Conan Doyle."
+      },
+      {
+        "title": "Sir Arthur Conan Doyle",
+        "text": "Sir Arthur Ignatius Conan Doyle was a British writer and physician."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "medium",
+    "question": "What is the name of the largest moon of Saturn, which has a dense atmosphere?",
+    "gold_answer": "Titan",
+    "context": [
+      {
+        "title": "Titan (moon)",
+        "text": "Titan is the largest moon of Saturn and the second-largest natural satellite in the Solar System."
+      },
+      {
+        "title": "Saturn",
+        "text": "Saturn has 146 moons, the largest of which is Titan."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "medium",
+    "question": "Which war, fought between the North and the South in the United States, ended in 1865?",
+    "gold_answer": "American Civil War",
+    "context": [
+      {
+        "title": "American Civil War",
+        "text": "The American Civil War was a civil war in the United States between the Union and the Confederacy."
+      },
+      {
+        "title": "1865",
+        "text": "The American Civil War ended in 1865 with the surrender of Confederate forces."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "medium",
+    "question": "Which mountain range, located in South America, is the longest continental mountain range in the world?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Andes",
+        "text": "The Andes are the longest continental mountain range in the world, forming a continuous highland along the western edge of South America."
+      },
+      {
+        "title": "South America",
+        "text": "South America is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "medium",
+    "question": "Who was the queen of the United Kingdom from 1837 until 1901, presiding over a period of industrial expansion?",
+    "gold_answer": "Queen Victoria",
+    "context": [
+      {
+        "title": "Queen Victoria",
+        "text": "Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901."
+      },
+      {
+        "title": "Victorian era",
+        "text": "The Victorian era was the period of Queen Victoria's reign."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "medium",
+    "question": "Which chemical element has the symbol 'Fe' and is the main component of steel?",
+    "gold_answer": "Iron",
+    "context": [
+      {
+        "title": "Iron",
+        "text": "Iron is a chemical element with the symbol Fe and atomic number 26."
+      },
+      {
+        "title": "Steel",
+        "text": "Steel is an alloy made up mostly of iron, with a small amount of carbon."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "medium",
+    "question": "What is the name of the largest canyon in the world, located in the state of Arizona?",
+    "gold_answer": "Grand Canyon",
+    "context": [
+      {
+        "title": "Grand Canyon",
+        "text": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States."
+      },
+      {
+        "title": "Arizona",
+        "text": "Arizona is a state in the Southwestern United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "medium",
+    "question": "Who was the French military leader who became Emperor of the French and was defeated at Waterloo?",
+    "gold_answer": "Napoleon Bonaparte",
+    "context": [
+      {
+        "title": "Napoleon",
+        "text": "Napoleon Bonaparte was a French military and political leader who rose to prominence during the French Revolution."
+      },
+      {
+        "title": "Battle of Waterloo",
+        "text": "The Battle of Waterloo was fought on 18 June 1815 near Waterloo in the United Kingdom of the Netherlands."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "medium",
+    "question": "Which language is the most spoken native language in the world, primarily in China?",
+    "gold_answer": "Mandarin Chinese",
+    "context": [
+      {
+        "title": "Mandarin Chinese",
+        "text": "Mandarin is a group of Sinitic languages spoken across most of northern and southwestern China."
+      },
+      {
+        "title": "Sinitic languages",
+        "text": "The Sinitic languages, often known as the Chinese languages, form a branch of the Sino-Tibetan language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "Which canal, completed in 1869, connects the Mediterranean Sea to the Red Sea?",
+    "gold_answer": "Suez Canal",
+    "context": [
+      {
+        "title": "Suez Canal",
+        "text": "The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea."
+      },
+      {
+        "title": "1869",
+        "text": "The Suez Canal was opened in 1869."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "medium",
+    "question": "Who was the American inventor who developed the phonograph and the long-lasting electric light bulb?",
+    "gold_answer": "Thomas Edison",
+    "context": [
+      {
+        "title": "Thomas Edison",
+        "text": "Thomas Edison was an American inventor and businessman who has been described as America's greatest inventor."
+      },
+      {
+        "title": "Incandescent light bulb",
+        "text": "Thomas Edison is credited with developing the first commercially practical incandescent light bulb."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "medium",
+    "question": "Which ocean is located between Africa, Australia, and Asia?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Indian Ocean",
+        "text": "The Indian Ocean is the third-largest of the world's oceanic divisions."
+      },
+      {
+        "title": "Asia",
+        "text": "Asia is the largest and most populous continent, bordered by the Indian Ocean to the south."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "medium",
+    "question": "Who was the ancient Greek philosopher who was the teacher of Alexander the Great?",
+    "gold_answer": "Aristotle",
+    "context": [
+      {
+        "title": "Aristotle",
+        "text": "Aristotle was a Greek philosopher during the Classical period in Ancient Greece."
+      },
+      {
+        "title": "Alexander the Great",
+        "text": "Alexander III of Macedon, commonly known as Alexander the Great, was a king of the ancient Greek kingdom of Macedon."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "Which country is the largest in the world by land area and spans two continents?",
+    "gold_answer": "Russia",
+    "context": [
+      {
+        "title": "Russia",
+        "text": "Russia is the largest country in the world, covering over 17,098,246 square kilometres."
+      },
+      {
+        "title": "Eurasia",
+        "text": "Eurasia is a combined continental landmass of Europe and Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "hard",
+    "question": "Which 19th-century treaty ended the Mexican-American War and what city was it signed in?",
+    "gold_answer": "Treaty of Guadalupe Hidalgo, Guadalupe Hidalgo",
+    "context": [
+      {
+        "title": "Treaty of Guadalupe Hidalgo",
+        "text": "The Treaty of Guadalupe Hidalgo ended the Mexican–American War in 1848."
+      },
+      {
+        "title": "Guadalupe Hidalgo",
+        "text": "Guadalupe Hidalgo is a neighborhood of Mexico City where the treaty was signed."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "hard",
+    "question": "What is the name of the mathematical theorem that states for any three positive integers a, b, and c, no solution exists for a^n + b^n = c^n if n is greater than 2?",
+    "gold_answer": "Fermat's Last Theorem",
+    "context": [
+      {
+        "title": "Fermat's Last Theorem",
+        "text": "Fermat's Last Theorem states that no three positive integers a, b, and c satisfy the equation a^n + b^n = c^n for any integer value of n greater than 2."
+      },
+      {
+        "title": "Pierre de Fermat",
+        "text": "Pierre de Fermat was a French lawyer and mathematician who first proposed the theorem."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "hard",
+    "question": "Which Byzantine emperor is known for his legal code and the construction of the Hagia Sophia?",
+    "gold_answer": "Justinian I",
+    "context": [
+      {
+        "title": "Justinian I",
+        "text": "Justinian I was the Byzantine emperor from 527 to 565."
+      },
+      {
+        "title": "Hagia Sophia",
+        "text": "The Hagia Sophia was built under the direction of the Byzantine emperor Justinian I."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "hard",
+    "question": "What is the name of the principle in quantum mechanics that states one cannot simultaneously know the exact position and momentum of a particle?",
+    "gold_answer": "Heisenberg Uncertainty Principle",
+    "context": [
+      {
+        "title": "Uncertainty principle",
+        "text": "The uncertainty principle states that the more precisely the position of some particle is determined, the less precisely its momentum can be known."
+      },
+      {
+        "title": "Werner Heisenberg",
+        "text": "Werner Heisenberg was a German theoretical physicist and one of the key pioneers of quantum mechanics."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "hard",
+    "question": "Which literary work, written by James Joyce, is famous for its stream-of-consciousness style and follows a single day in the life of Leopold Bloom?",
+    "gold_answer": "Ulysses",
+    "context": [
+      {
+        "title": "Ulysses (novel)",
+        "text": "Ulysses is a modernist novel by Irish writer James Joyce."
+      },
+      {
+        "title": "Leopold Bloom",
+        "text": "Leopold Bloom is the fictional protagonist and hero of James Joyce's novel Ulysses."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "hard",
+    "question": "Which 17th-century peace treaty ended the Thirty Years' War in the Holy Roman Empire?",
+    "gold_answer": "Peace of Westphalia",
+    "context": [
+      {
+        "title": "Peace of Westphalia",
+        "text": "The Peace of Westphalia was a series of peace treaties signed between May and October 1648 in the Westphalian cities of Osnabrück and Münster."
+      },
+      {
+        "title": "Thirty Years' War",
+        "text": "The Thirty Years' War was a war fought primarily in Central Europe between 1618 and 1648."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "hard",
+    "question": "What is the name of the biological process where a cell divides into four daughter cells with half the number of chromosomes?",
+    "gold_answer": "Meiosis",
+    "context": [
+      {
+        "title": "Meiosis",
+        "text": "Meiosis is a special type of cell division of germ cells in sexually-reproducing organisms used to produce the gametes."
+      },
+      {
+        "title": "Chromosome",
+        "text": "A chromosome is a long DNA molecule with part or all of the genetic material of an organism."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "hard",
+    "question": "Which African lake is the largest by surface area and is shared by Uganda, Kenya, and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "context": [
+      {
+        "title": "Lake Victoria",
+        "text": "Lake Victoria is one of the African Great Lakes, shared by Tanzania, Uganda, and Kenya."
+      },
+      {
+        "title": "African Great Lakes",
+        "text": "The African Great Lakes are a series of lakes constituting the part of the Rift Valley lakes in and around the East African Rift."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "hard",
+    "question": "Which Japanese shogun established the Tokugawa Shogunate and in what year did it begin?",
+    "gold_answer": "Tokugawa Ieyasu, 1603",
+    "context": [
+      {
+        "title": "Tokugawa Ieyasu",
+        "text": "Tokugawa Ieyasu was the founder and first shōgun of the Tokugawa shogunate of Japan."
+      },
+      {
+        "title": "Tokugawa shogunate",
+        "text": "The Tokugawa shogunate was the feudal military government of Japan during the Edo period from 1603 to 1868."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "hard",
+    "question": "What is the name of the chemical bond characterized by the sharing of electron pairs between atoms?",
+    "gold_answer": "Covalent bond",
+    "context": [
+      {
+        "title": "Covalent bond",
+        "text": "A covalent bond is a chemical bond that involves the sharing of electron pairs between atoms."
+      },
+      {
+        "title": "Chemical bond",
+        "text": "A chemical bond is a lasting attraction between atoms, ions or molecules that enables the formation of chemical compounds."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "hard",
+    "question": "Which Russian composer wrote the ballet 'The Rite of Spring', which caused a riot at its 1913 premiere?",
+    "gold_answer": "Igor Stravinsky",
+    "context": [
+      {
+        "title": "The Rite of Spring",
+        "text": "The Rite of Spring is a ballet and orchestral concert work by the Russian composer Igor Stravinsky."
+      },
+      {
+        "title": "Igor Stravinsky",
+        "text": "Igor Stravinsky was a Russian composer, pianist, and conductor."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "hard",
+    "question": "What is the name of the process by which a solid changes directly into a gas without passing through the liquid phase?",
+    "gold_answer": "Sublimation",
+    "context": [
+      {
+        "title": "Sublimation (phase transition)",
+        "text": "Sublimation is the transition of a substance directly from the solid to the gas state, without passing through the liquid state."
+      },
+      {
+        "title": "Phase transition",
+        "text": "A phase transition is the transformation of a thermodynamic system from one phase or state of matter to another by heat transfer."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "hard",
+    "question": "Which Chinese philosopher is the author of the 'Tao Te Ching' and the founder of Taoism?",
+    "gold_answer": "Laozi",
+    "context": [
+      {
+        "title": "Laozi",
+        "text": "Laozi was an ancient Chinese philosopher and writer. He is the reputed author of the Tao Te Ching."
+      },
+      {
+        "title": "Taoism",
+        "text": "Taoism is a philosophical and spiritual tradition of Chinese origin which emphasizes living in harmony with the Tao."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "hard",
+    "question": "What is the name of the largest moon of Neptune, which has a retrograde orbit?",
+    "gold_answer": "Triton",
+    "context": [
+      {
+        "title": "Triton (moon)",
+        "text": "Triton is the largest natural satellite of the planet Neptune, and the only large moon in the Solar System with a retrograde orbit."
+      },
+      {
+        "title": "Neptune",
+        "text": "Neptune is the eighth and farthest-known Solar planet from the Sun."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "hard",
+    "question": "Which 16th-century explorer led the first expedition to circumnavigate the globe, though he died before it was completed?",
+    "gold_answer": "Ferdinand Magellan",
+    "context": [
+      {
+        "title": "Ferdinand Magellan",
+        "text": "Ferdinand Magellan was a Portuguese explorer who organised the Spanish expedition to the East Indies from 1519 to 1522."
+      },
+      {
+        "title": "Magellan expedition",
+        "text": "The Magellan expedition was the first expedition to sail from the Atlantic Ocean into the Pacific Ocean and the first circumnavigation of the Earth."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "hard",
+    "question": "What is the name of the economic theory that suggests that the value of a commodity is determined by the amount of socially necessary labor required to produce it?",
+    "gold_answer": "Labor theory of value",
+    "context": [
+      {
+        "title": "Labor theory of value",
+        "text": "The labor theory of value is a theory of value that argues that the economic value of a good or service is determined by the total amount of socially necessary labor required to produce it."
+      },
+      {
+        "title": "David Ricardo",
+        "text": "David Ricardo was a British political economist and one of the most influential of the classical economists."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "hard",
+    "question": "Which French author wrote 'In Search of Lost Time', a multi-volume novel famous for its involuntary memory theme?",
+    "gold_answer": "Marcel Proust",
+    "context": [
+      {
+        "title": "In Search of Lost Time",
+        "text": "In Search of Lost Time is a novel in seven volumes by Marcel Proust."
+      },
+      {
+        "title": "Marcel Proust",
+        "text": "Marcel Proust was a French novelist, critic, and essayist."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "hard",
+    "question": "What is the name of the constant that relates the energy of a photon to its frequency?",
+    "gold_answer": "Planck's constant",
+    "context": [
+      {
+        "title": "Planck constant",
+        "text": "The Planck constant is a fundamental physical constant that is the quantum of electromagnetic action."
+      },
+      {
+        "title": "Max Planck",
+        "text": "Max Planck was a German theoretical physicist whose discovery of energy quanta won him the Nobel Prize in Physics in 1918."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "hard",
+    "question": "Which African country was formerly known as Abyssinia and was never colonized by a European power?",
+    "gold_answer": "Ethiopia",
+    "context": [
+      {
+        "title": "Ethiopia",
+        "text": "Ethiopia is a landlocked country in the Horn of Africa. It was formerly known as Abyssinia."
+      },
+      {
+        "title": "Italian occupation of Ethiopia",
+        "text": "Ethiopia remained independent during the Scramble for Africa, except for a brief Italian occupation from 1936 to 1941."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "hard",
+    "question": "What is the name of the architectural style that succeeded Romanesque and is characterized by pointed arches and flying buttresses?",
+    "gold_answer": "Gothic architecture",
+    "context": [
+      {
+        "title": "Gothic architecture",
+        "text": "Gothic architecture is an architectural style that flourished in Europe during the High and Late Middle Ages."
+      },
+      {
+        "title": "Pointed arch",
+        "text": "A pointed arch is an arch with a pointed crown, whose two curving sides meet at a relatively sharp angle at the top of the arch."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "hard",
+    "question": "Which scientist developed the laws of planetary motion and was an assistant to Tycho Brahe?",
+    "gold_answer": "Johannes Kepler",
+    "context": [
+      {
+        "title": "Johannes Kepler",
+        "text": "Johannes Kepler was a German astronomer, mathematician, and astrologer. He is a key figure in the 17th-century scientific revolution."
+      },
+      {
+        "title": "Kepler's laws of planetary motion",
+        "text": "Kepler's laws of planetary motion are three scientific laws describing the motion of planets around the Sun."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "hard",
+    "question": "What is the name of the treaty that established the European Union and was signed in 1992?",
+    "gold_answer": "Maastricht Treaty",
+    "context": [
+      {
+        "title": "Maastricht Treaty",
+        "text": "The Maastricht Treaty is the foundation treaty of the European Union, signed on 7 February 1992."
+      },
+      {
+        "title": "European Union",
+        "text": "The European Union is a political and economic union of 27 member states that are located primarily in Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "hard",
+    "question": "Which chemical element has the highest atomic number of all naturally occurring elements?",
+    "gold_answer": "Uranium",
+    "context": [
+      {
+        "title": "Uranium",
+        "text": "Uranium is a chemical element with the symbol U and atomic number 92."
+      },
+      {
+        "title": "Actinide",
+        "text": "The actinides are a series of 15 consecutive chemical elements in the periodic table from actinium to lawrencium."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "hard",
+    "question": "Who was the English physician who first described the systemic circulation of blood?",
+    "gold_answer": "William Harvey",
+    "context": [
+      {
+        "title": "William Harvey",
+        "text": "William Harvey was an English physician who made seminal contributions in anatomy and physiology."
+      },
+      {
+        "title": "Circulatory system",
+        "text": "The circulatory system is an organ system that permits blood to circulate and transport nutrients."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "hard",
+    "question": "What is the name of the philosophical movement that emphasizes individual existence, freedom and choice?",
+    "gold_answer": "Existentialism",
+    "context": [
+      {
+        "title": "Existentialism",
+        "text": "Existentialism is a form of philosophical inquiry that explores the nature of the human condition."
+      },
+      {
+        "title": "Jean-Paul Sartre",
+        "text": "Jean-Paul Sartre was a French philosopher, playwright, novelist, and political activist who was a key figure in existentialism."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "hard",
+    "question": "Which historical region, located between the Tigris and Euphrates rivers, is often called the 'Cradle of Civilization'?",
+    "gold_answer": "Mesopotamia",
+    "context": [
+      {
+        "title": "Mesopotamia",
+        "text": "Mesopotamia is a historical region of Western Asia situated within the Tigris–Euphrates river system."
+      },
+      {
+        "title": "Fertile Crescent",
+        "text": "The Fertile Crescent is a crescent-shaped region in the Middle East."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "hard",
+    "question": "What is the name of the particle that carries the strong nuclear force in quantum chromodynamics?",
+    "gold_answer": "Gluon",
+    "context": [
+      {
+        "title": "Gluon",
+        "text": "A gluon is an elementary particle that acts as the exchange particle for the strong force between quarks."
+      },
+      {
+        "title": "Strong interaction",
+        "text": "The strong interaction is the mechanism responsible for the strong nuclear force."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "hard",
+    "question": "Who was the last pharaoh of ancient Egypt and was a member of the Ptolemaic dynasty?",
+    "gold_answer": "Cleopatra",
+    "context": [
+      {
+        "title": "Cleopatra",
+        "text": "Cleopatra VII Philopator was the last active ruler of the Ptolemaic Kingdom of Egypt."
+      },
+      {
+        "title": "Ptolemaic dynasty",
+        "text": "The Ptolemaic dynasty was a Macedonian Greek royal family which ruled the Ptolemaic Kingdom in Egypt during the Hellenistic period."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "hard",
+    "question": "What is the name of the theorem in geometry that states that the sum of the squares of the lengths of the legs of a right triangle is equal to the square of the length of the hypotenuse?",
+    "gold_answer": "Pythagorean theorem",
+    "context": [
+      {
+        "title": "Pythagorean theorem",
+        "text": "The Pythagorean theorem is a fundamental relation in Euclidean geometry among the three sides of a right triangle."
+      },
+      {
+        "title": "Right triangle",
+        "text": "A right triangle is a triangle in which one angle is a right angle."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "hard",
+    "question": "Which Spanish artist is the co-founder of the Cubist movement and painted 'Guernica'?",
+    "gold_answer": "Pablo Picasso",
+    "context": [
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer."
+      },
+      {
+        "title": "Guernica (Picasso)",
+        "text": "Guernica is a large oil painting on canvas by Spanish artist Pablo Picasso completed in June 1937."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "medium",
+    "question": "Which Italian scientist, known for inventing the radio, was born in the same city as the headquarters of the automobile manufacturer Lamborghini?",
+    "gold_answer": "Guglielmo Marconi",
+    "context": [
+      {
+        "title": "Guglielmo Marconi",
+        "text": "Guglielmo Marconi was an Italian inventor and electrical engineer, known for his pioneering work on long-distance radio transmission."
+      },
+      {
+        "title": "Bologna",
+        "text": "Bologna is the largest city of the Emilia-Romagna region in Northern Italy. Guglielmo Marconi was born here, and the area is also home to Lamborghini's headquarters in nearby Sant'Agata Bolognese."
+      }
+    ]
+  },
+  {
     "qid": "hp100",
     "difficulty": "hard",
     "question": "Which physicist, who won the Nobel Prize in 1921, worked on the phenomenon where light hitting a material causes the emission of electrons?",
