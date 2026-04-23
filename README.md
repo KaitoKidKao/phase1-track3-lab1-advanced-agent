@@ -72,17 +72,17 @@ Tôi đã triển khai các tính năng mở rộng sau:
 ## Summary
 | Metric | ReAct | Reflexion | Delta |
 |---|---:|---:|---:|
-| EM | 0.96 | 0.98 | 0.02 |
-| Avg attempts | 1 | 1.05 | 0.05 |
-| Avg token estimate | 997.33 | 1073.15 | 75.82 |
-| Avg latency (ms) | 6012.46 | 4767.36 | -1245.1 |
+| EM | 0.97 | 0.98 | 0.01 |
+| Avg attempts | 1 | 1.06 | 0.06 |
+| Avg token estimate | 1505.5 | 1656.45 | 150.95 |
+| Avg latency (ms) | 4070.54 | 4599.77 | 529.23 |
 
 ## Failure modes
 ```json
 {
   "react": {
-    "none": 96,
-    "wrong_final_answer": 4
+    "none": 97,
+    "wrong_final_answer": 3
   },
   "reflexion": {
     "none": 98,
