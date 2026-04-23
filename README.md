@@ -32,7 +32,10 @@ python autograde.py --report-path outputs/sample_run/report.json
 - **80% số điểm (80 điểm)**: Hoàn thiện đúng và đủ luồng (flow) cho Reflexion Agent, chạy thành công với LLM thật và dataset thật.
 - **20% số điểm (20 điểm)**: Thực hiện thêm ít nhất một trong các phần **Bonus** được nhắc đến trong mã nguồn (ví dụ: `structured_evaluator`, `reflection_memory`, `adaptive_max_attempts`, `memory_compression`, v.v. - xem chi tiết tại `autograde.py`).
 
-## 5. Kết quả triển khai (Dành cho Giám khảo)
+## Pipeline
+![Mermaid](mermaid.png)
+
+## 5. Kết quả triển khai 
 
 Tôi đã hoàn thiện toàn bộ yêu cầu của Lab 16 với các thành phần sau:
 
